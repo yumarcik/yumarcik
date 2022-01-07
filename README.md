@@ -9,6 +9,8 @@ Hey, I'm Yağmur, a passionate self-taught developer 👩🏼‍💻 and this is
 [linkedin]: yagmurpolat
 [discord]: yumarcik#5603
 
+/n
+
 
 
 
