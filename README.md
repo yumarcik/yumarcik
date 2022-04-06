@@ -8,7 +8,7 @@ Now I'm taking some courses about iOS Development in Turkcell to improve my Mobi
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
 
-[linkedin]: yagmurpolat
+[linkedin]: https://www.linkedin.com/in/yagmurpolat/
 [discord]: yumarcik#5603
 
 
