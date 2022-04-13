@@ -1,4 +1,4 @@
-### Hi there 👋 This is me, Yumarcik!
+### Hi there 👋
 
 
 Hey, I'm Yağmur, a passionate self-taught developer 👩🏼‍💻 and this is the place where I share my learning journey!
